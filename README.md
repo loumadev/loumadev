@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**loumadev/loumadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/loumadev">
+    <img src="https://github-readme-stats.vercel.app/api?username=loumadev&custom_title=General%20GitHub%20Stats&theme=nightowl" alt="General GitHub Stats">
+  </a>
+</p>
+<p align="left" href="https://github.com/loumadev">
+  <a href="https://github.com/loumadev">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=loumadev&hide_progress=true&custom_title=Active%20Code%20Time%20For%20Last%20Week&theme=nightowl" alt="Active code time for last week">
+  </a>
+</p>
+<p align="left" href="https://github.com/loumadev">
+  <a href="https://github.com/loumadev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loumadev&theme=nightowl" alt="Most used languages">
+  </a>
+</p>
