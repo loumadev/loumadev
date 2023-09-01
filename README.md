@@ -11,7 +11,7 @@ I'm **Jaroslav Louma**, a passionate self-taught software developer and CS stude
 
 As a backend wizard ☁️, I specialize in building performant and maintainable systems mainly using JavaScript and Node.js. Although I mainly work on the server-side, I'm also comfortable with frontend work and have experience building complete full-stack applications. 💻
 
-In my free time, you can find me tinkering on side projects, learning new technologies, or working as a freelance developer. I'm always down for a challenging coding problem to flex my 💪 JavaScript skills!
+In my free time, you can find me tinkering on side projects, learning new technologies, or working as a freelance developer. I'm always down for a challenging coding problem to flex my 💪 JavaScript skills! 😎
 
 Outside of programming, I enjoy staying active and creative. I consider myself to be hard-working and persistent in achieving my goals. If you're looking for a developer to add value to your team, I'd love to [connect](#-how-to-reach-me)! 🤝
 
