@@ -105,7 +105,7 @@ Outside of programming, I enjoy staying active and creative. I consider myself t
 	<a href="mailto:mail@loumadev.eu" target="_blank">
 		<img src="https://img.shields.io/badge/Message-mail@loumadev.eu-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=D14836&labelColor=232339" alt="Email">
 	</a>
-	<a href="https://www.linkedin.com/in/jaroslav-louma-9b81421a0/" target="_blank">
+	<a href="https://www.linkedin.com/in/loumadev/" target="_blank">
 		<img src="https://img.shields.io/badge/Hire-Jaroslav Louma-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=1e99dc&labelColor=232339" alt="LinkedIn">
 	</a>
 </p>
